@@ -1,0 +1,28 @@
+.footer {
+  margin-top:  20px;
+  width:  100%;
+  height:  200px;
+  background-size:  cover;
+  background-position: center;
+  text-align:  center;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0px;
+}
+
+.footer li {
+  display:  inline;
+  padding:  10px;
+}
+
+.footer i {
+    font-size:  40px;
+    color: rgba(59,193,97,1);
+}
+.footer-info {
+  padding:  20px;
+  color:  rgba(100,100,100);
+}
+
